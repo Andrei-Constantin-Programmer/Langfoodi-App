@@ -13,7 +13,7 @@
 
 The user-facing Android app for the Langfoodi recipe-sharing social media platform.
 
-Find the API (backend) that this app uses at [Langfoodi Api](https://github.com/Andrei-Constantin-Programmer/LangfoodiAPI).
+Find the API that services this app at [Langfoodi Api](https://github.com/Andrei-Constantin-Programmer/LangfoodiAPI).
 
 
 ## Table of Contents
@@ -30,17 +30,17 @@ Langfoodi is a recipe-sharing social media platform that combines recipe managem
 
 Langfoodi has been my group project dissertation during my Bachelor's degree at the University of Kent, on which I worked together with my [team](#team).  
 
-This repository contains the code for the frontend aspect (mobile app) of the project.
+This repository contains the code for the frontend application of the project, which is cross-platform. Focus has been put on the Android version of this application.
 
 
 
 ## Features
 Feature in this app include (but are not limited to):
-- login / sign-up
-- creating, editing and sharing recipes
-- live messaging (SignalR) between users and groups
-- customising your profile
-- integration with Cloudinary - quick and easy image hosting
+- User registration and authentication
+- Creating, editing and sharing recipes
+- Live messaging (SignalR) between users and groups
+- User profile customisation
+- Cloudinary integration
 
 <br/>
 
@@ -59,8 +59,8 @@ Feature in this app include (but are not limited to):
 </div>
 
 ## Team  
-[Milovan Gveric (myself)](https://github.com/Unknown807)  
-[Andrei Constantin](https://github.com/Andrei-Constantin-Programmer)  
+[Milovan Gveric](https://github.com/Unknown807)  
+[Andrei Constantin (myself)](https://github.com/Andrei-Constantin-Programmer)  
 [Filip Fois](https://github.com/filip-edu)  
 Nathan Gipson
 
