@@ -7,9 +7,9 @@
 </div>
 
 # Langfoodi Frontend App
-[![Flutter](https://github.com/Unknown807/Langfoodi-Frontend/actions/workflows/flutter.yml/badge.svg)](https://github.com/Unknown807/Langfoodi-Frontend/actions/workflows/flutter.yml)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Unknown807/Langfoodi-Frontend?label=Repo%20Size)](https://shields.io/badges/git-hub-repo-size)
-[![GitHub License](https://img.shields.io/github/license/Unknown807/Langfoodi-Frontend?label=License)](LICENSE)
+[![Flutter](https://github.com/Andrei-Constantin-Programmer/Langfoodi-App/actions/workflows/flutter.yml/badge.svg)](https://github.com/Andrei-Constantin-Programmer/Langfoodi-App/actions/workflows/flutter.yml)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Andrei-Constantin-Programmer/Langfoodi-App?label=Repo%20Size)](https://shields.io/badges/git-hub-repo-size)
+[![GitHub License](https://img.shields.io/github/license/Andrei-Constantin-Programmer/Langfoodi-App?label=License)](LICENSE)
 
 The user-facing Android app for the Langfoodi recipe-sharing social media platform.
 
